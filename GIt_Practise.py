@@ -1,4 +1,4 @@
 Name="G.keerthi Varshaan"
 print(Name)
 
-degree="B.tech IT"
+degree="B.tech "
